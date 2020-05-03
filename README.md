@@ -36,3 +36,16 @@
 </tr>
 </tbody>
 </table>
+
+## Library in Use
+<ul>
+<li>Servo.h</li>
+</ul>
+
+# Poster
+<p><img src="" alt="" style="max-width:100%;"></p>
+
+## Group Members
+&nbsp;<img src="picture/nai.jpg" width="120px" height="120px">&emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="picture/se.jpg" width="120px" height="120px"><br>
+&emsp;&nbsp;&nbsp;&nbsp;|[th4it4y4](https://github.com/th4it4y4)|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|[Supertee003](https://github.com/Supertee003)|<br>|Nitichai Kodchatean|&emsp;&emsp;|Teerawat Donse|<br>
+&emsp;&nbsp;|61070104|&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;|61070092|
