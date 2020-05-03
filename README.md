@@ -49,3 +49,19 @@
 &nbsp;<img src="picture/nai.jpg" width="120px" height="120px">&emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="picture/se.jpg" width="120px" height="120px"><br>
 &emsp;&nbsp;&nbsp;&nbsp;|[th4it4y4](https://github.com/th4it4y4)|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;|[Supertee003](https://github.com/Supertee003)|<br>|Nitichai Kodchatean|&emsp;&emsp;|Teerawat Donse|<br>
 &emsp;&nbsp;|61070104|&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;|61070092|
+
+## Special Thanks
+<table>
+<thead>
+<tr>
+<th align="center"><img src="picture/professor_1.jpg" alt="" style="max-width:100%;"></a></th>
+<th align="center"><img src="picture/professor_2.jpg" alt="" style="max-width:100%;"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"> Asst Profressor Kitsuchart Pasupa<br>ผศ. ดร. กิติ์สุชาต พสุภา</td>
+<td align="center"> Asst Profressor Panwit Tuwanut<br>ผศ. ดร. ปานวิทย์ ธุวะนุติ</td>
+</tr>
+</tbody>
+</table>
