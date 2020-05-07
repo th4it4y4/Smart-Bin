@@ -43,7 +43,7 @@
 </ul>
 
 # Poster
-<p><img src="picture/ptcp.jpg" alt="" style="max-width:100%;"></p>
+<p><img src="picture/ptcp.png" alt="" style="max-width:100%;"></p>
 
 ## Group Members
 &nbsp;<img src="picture/nai.jpg" width="120px" height="120px">&emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="picture/se.jpg" width="120px" height="120px"><br>
